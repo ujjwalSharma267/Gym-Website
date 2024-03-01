@@ -16,13 +16,13 @@ const Footer = () => {
             </h1>
           </Link>
           <p className="mt-4">
-            The best fitness destination in Lahore, for men and women.
+            The best fitness destination in Mumbai, for men and women.
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Address</h1>
           <p className="mt-4">
-            Plot 339 Block R2 Johar Town Lahore, 54000 Pakistan
+            Plot 339 Block R2 Shivaji Marg , Mumbai ,321990
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">
